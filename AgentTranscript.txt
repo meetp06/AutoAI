@@ -1,0 +1,16 @@
+	1	Ara, open the Google Calendar.
+	2	You were blank Hi, Ara. Find out all the meeting for this week, and create one HTML page and save all the information into it.
+	3	Haiku, can you make the some points based on the description I've provided?
+	4	Can you add this into this HTML file?
+	5	You can add, description points in the HTML file with the little bit more information, like, what point I can use in my meeting.
+	6	I think this is good. You can just paste this point into this HTML file. After the summary.
+	7	Can you open this file with update?
+	8	Can you save this note in my Notion? Just create one new file and save this all the HTML stuff inside the Notion page.
+	1	You can just create new page in Notion and save the old detail of the HTML file into that page.
+	2	Can you just make new note?
+	3	The old HTML content is inside the my user meet Ara workspace, and that there is a file called meet meetings weeks May ten. So you can just use those contacts in in inside the Notion page.
+	4	Hey, Ara. Can you open Google Calendar?
+	5	Hey, Ara. Can you just open Google Calendar?
+	6	Oh, you can just refresh now.
+	7	Hey, Ara. Can you just open Google Calendar?
+	8	So, Haira, just find out all the meetings for this week. And create one HTML page and save all the information into it.
